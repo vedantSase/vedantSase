@@ -1,4 +1,4 @@
-# Hi I'm Vedant, a explorer and learner.
+# Hi I'm Vedant, a tech explorer and learner.
 Aspiring AI & Data Science Engineer | Web Developer (Node.js, MongoDB) | Networking & ML Fundamentals & Backend Development Certified | Building Scalable Solutions <br>
 <b>LinkedIn</b> - www.linkedin.com/in/vedant-sase-03633a1aa <br>
 <b>Hacker Rank</b> - sasevedant5264 <br>
